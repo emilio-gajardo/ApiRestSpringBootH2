@@ -1,0 +1,15 @@
+# Created at 2022-04-13T22:51:33.418
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2022-04-13T22:51:33.419
+WARNING: Illegal reflective access by org.nustaq.serialization.FSTClazzInfo (file:/C:/Users/Usuario/.m2/repository/de/ruedigermoeller/fst/2.57/fst-2.57.jar) to field java.lang.String.value
+
+# Created at 2022-04-13T22:51:33.419
+WARNING: Please consider reporting this to the maintainers of org.nustaq.serialization.FSTClazzInfo
+
+# Created at 2022-04-13T22:51:33.420
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2022-04-13T22:51:33.420
+WARNING: All illegal access operations will be denied in a future release
+
